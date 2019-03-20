@@ -1,6 +1,6 @@
-# <Title>
+# Var fjärde anställd på väg ut
 
-**<Kort beskrivning av innehållet i repot>** Mer info och länkar finns i notebooken.
+I denna repo finner man bakgrundsmaterial och beräkningar till Dagens Samhälles publicering om andelen kommunanställda som är 55 år eller äldre.  Mer info och länkar finns i notebooken.
 
 Vid eventuella frågor är det bara att höra av sig till min mejl: johan.ekman@dagenssamhalle.se
 
